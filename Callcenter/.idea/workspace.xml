@@ -259,18 +259,18 @@
         <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/empresas.service.ts" />
         <option value="$PROJECT_DIR$/bilin-callcenter-ws/app.js" />
         <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/notas.service.ts" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages-routing.module.ts" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/layout/header/brand/brand.component.html" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-ws/models/notaFiscal.js" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-ws/routes/notasFiscais.js" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/FormaPagamentoNota.ts" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Produto.ts" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/NotaFiscal.ts" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/auth/login/login.component.ts" />
-        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/config/pages.ts" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/content/pages/pages-routing.module.ts" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/content/layout/header/brand/brand.component.html" />
+        <option value="$PROJECT_DIR$/callcenter-ws/models/notaFiscal.js" />
+        <option value="$PROJECT_DIR$/callcenter-ws/routes/notasFiscais.js" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/core/models/enum/FormaPagamentoNota.ts" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/core/models/api/Produto.ts" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/core/models/api/NotaFiscal.ts" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/content/pages/auth/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/config/pages.ts" />
         <option value="$PROJECT_DIR$/callcenter-ws/routes/index.js" />
         <option value="$PROJECT_DIR$/callcenter-ws/config/config.json" />
         <option value="$PROJECT_DIR$/callcenter-ws/public/styles.js" />
@@ -339,13 +339,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="footer&#9;FILE&#9;file://C:/Users/X250/Documents/Callcenter/callcenter-front/src/app/content/layout/footer/footer.component.html&#10;login&#9;FILE&#9;file://C:/Users/X250/Documents/Callcenter/callcenter-front/src/app/content/pages/auth/login/login.component.html&#10;produtos.s&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/produtos.service.ts&#10;cliente.se&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/clientes.service.ts&#10;usuario.&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/usuarios.service.ts&#10;entregadores&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/entregadores.js&#10;entregador.se&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/entregadores.service.ts&#10;htt&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/http-utils.service.ts&#10;pages&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/pages-routing.module.ts&#10;pag&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/pages.component.html&#10;config&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/interfaces/config.ts&#10;lancar&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.ts&#10;lanca&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html&#10;Empresa&#9;null&#9;null&#10;cadas&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts&#10;cadastrar-ve&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.html&#10;Nota&#9;null&#9;null&#10;lancar-pe&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html&#10;cadastrar-empresa&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.ts&#10;cadastrar-em&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html&#10;NotaFis&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/models/api/NotaFiscal.ts&#10;cadastrar-vei&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.ts&#10;Produto&#9;null&#9;null&#10;Pedido&#9;null&#9;null&#10;cadastrar-no&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html&#10;notasF&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/notasFiscais.js&#10;NotaFiscal&#9;null&#9;null&#10;ap&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/app.js&#10;Defau&#9;null&#9;null&#10;setD&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/_setDefaultData.js&#10;rd&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/rdb.js&#10;auth.s&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/auth/authentication.service.ts&#10;bran&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/layout/header/brand/brand.component.html&#10;page&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/page-config.service.ts&#10;pedido&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/pedidos.js&#10;pedidos&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/pedidos.js&#10;usuario&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/usuario.js&#10;cadastrar&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/produtos/cadastrar-produto/cadastrar-produto.component.html&#10;cadastrar-pro&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/produtos/cadastrar-produto/cadastrar-produto.component.html&#10;produtos&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/produtos.js&#10;produto&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/produto.js&#10;PRODUTO&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/produtos.js&#10;usuarios&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/usuarios.js&#10;Pro&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/produtos.js&#10;veiculos&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/veiculos.js&#10;veiculos.s&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/veiculos.service.ts&#10;pedidos.se&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/pedidos.service.ts&#10;veiculo&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/veiculo.js&#10;Veiculo&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/models/api/Veiculo.ts&#10;TipoV&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/models/enum/TipoVeiculo.ts" />
+    <property name="SearchEverywhereHistoryKey" value="footer&#9;FILE&#9;file://C:/Users/X250/Documents/Callcenter/callcenter-front/src/app/content/layout/footer/footer.component.html&#10;login&#9;FILE&#9;file://C:/Users/X250/Documents/Callcenter/callcenter-front/src/app/content/pages/auth/login/login.component.html&#10;produtos.s&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/services/api/produtos.service.ts&#10;cliente.se&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/services/api/clientes.service.ts&#10;usuario.&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/services/api/usuarios.service.ts&#10;entregadores&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/routes/entregadores.js&#10;entregador.se&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/services/api/entregadores.service.ts&#10;htt&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/services/api/http-utils.service.ts&#10;pages&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/pages-routing.module.ts&#10;pag&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/pages.component.html&#10;config&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/interfaces/config.ts&#10;lancar&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.ts&#10;lanca&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html&#10;Empresa&#9;null&#9;null&#10;cadas&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts&#10;cadastrar-ve&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.html&#10;Nota&#9;null&#9;null&#10;lancar-pe&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html&#10;cadastrar-empresa&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.ts&#10;cadastrar-em&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html&#10;NotaFis&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/models/api/NotaFiscal.ts&#10;cadastrar-vei&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.ts&#10;Produto&#9;null&#9;null&#10;Pedido&#9;null&#9;null&#10;cadastrar-no&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html&#10;notasF&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/routes/notasFiscais.js&#10;NotaFiscal&#9;null&#9;null&#10;ap&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/app.js&#10;Defau&#9;null&#9;null&#10;setD&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/_setDefaultData.js&#10;rd&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/models/rdb.js&#10;auth.s&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/auth/authentication.service.ts&#10;bran&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/content/layout/header/brand/brand.component.html&#10;page&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/page-config.service.ts&#10;pedido&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/pedidos.js&#10;pedidos&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/pedidos.js&#10;usuario&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/usuario.js&#10;cadastrar&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/produtos/cadastrar-produto/cadastrar-produto.component.html&#10;cadastrar-pro&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/callcenter-front/src/app/content/pages/components/produtos/cadastrar-produto/cadastrar-produto.component.html&#10;produtos&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/routes/produtos.js&#10;produto&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/models/produto.js&#10;PRODUTO&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/routes/produtos.js&#10;usuarios&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/routes/usuarios.js&#10;Pro&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/routes/produtos.js&#10;veiculos&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/routes/veiculos.js&#10;veiculos.s&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/services/api/veiculos.service.ts&#10;pedidos.se&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/services/api/pedidos.service.ts&#10;veiculo&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-ws/models/veiculo.js&#10;Veiculo&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/models/api/Veiculo.ts&#10;TipoV&#9;FILE&#9;file://C:/Users/X250/Documents/CallCenter/callcenter-front/src/app/core/models/enum/TipoVeiculo.ts" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Users\X250\Documents\BilinCallCenter\bilin-callcenter-front\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\X250\Documents\CallCenter\callcenter-front\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -438,50 +438,50 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/pipes/console-log.pipe.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/interface/CallcenterFunctions.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/ResultObject.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/usuario-funcao.service.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/routes/usuarios.js" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/app.js" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/PerfilUsuario.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/routes/notasFiscais.js" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/FormaPagamentoNota.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/notas.service.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Pedido.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.html" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Empresa.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/models/notaFiscal.js" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/NotaFiscal.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/node_modules/@angular/router/router.metadata.json" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/main.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/styles.scss" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/interfaces/config.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/auth/login/login.component.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/auth/login/login.component.html" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages.module.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages.component.html" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/app.component.html" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages-routing.module.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/index.html" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Produto.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/models/cliente.js" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/models/pedido.js" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/models/produto.js" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/config/pages.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/http-utils.service.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/entregadores.service.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/routes/entregadores.js" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/usuarios.service.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/clientes.service.ts" />
-    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/produtos.service.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/pipes/console-log.pipe.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/models/interface/CallcenterFunctions.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/models/api/ResultObject.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/services/api/usuario-funcao.service.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/routes/usuarios.js" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/app.js" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/models/enum/PerfilUsuario.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/routes/notasFiscais.js" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/models/enum/FormaPagamentoNota.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/services/api/notas.service.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/models/api/Pedido.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.html" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/models/api/Empresa.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/models/notaFiscal.js" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/models/api/NotaFiscal.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/node_modules/@angular/router/router.metadata.json" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/styles.scss" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/interfaces/config.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/auth/login/login.component.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/auth/login/login.component.html" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/pages.module.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/pages.component.html" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/pages-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/models/api/Produto.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/models/cliente.js" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/models/pedido.js" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/models/produto.js" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/config/pages.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/services/api/http-utils.service.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/services/api/entregadores.service.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/routes/entregadores.js" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/services/api/usuarios.service.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/services/api/clientes.service.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/core/services/api/produtos.service.ts" />
     <entry file="file://$PROJECT_DIR$/callcenter-ws/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">

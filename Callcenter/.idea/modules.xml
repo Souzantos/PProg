@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BilinCallCenter.iml" filepath="$PROJECT_DIR$/.idea/BilinCallCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CallCenter.iml" filepath="$PROJECT_DIR$/.idea/CallCenter.iml" />
     </modules>
   </component>
 </project>
