@@ -27,16 +27,27 @@ Angular 6;
 	4.1 Módulos e suas funcionalidades
 
   Lista de Pedidos (lista onde haverá os pedidos feitos pelos clientes);
+  
   Relatório de Pedidos (relatório de todos os pedidos já realizados);
+  
   Pedidos Agendados (lista de todos os pedidos já feitos e estão agendados para entrega);
+  
   Login (login no sistema é necessário para acessar todas as funcionalidades do sistema);
+  
   Cadastro de empresa (cadastrar as empresas que farão pedid);
+  
   Cadastro de fornecedor (cadastrar fornecedores de gás);
+  
   Cadastro de cliente (cadastro dos clientes que farão pedidos de gás);
+  
   Cadastro do produto (cadastro dos produtos fornecidos); 
+  
   Cadastro de pedido (cadastro dos pedidos realizados a serem concluídos);
+  
   Cadastro do usuário (cadastro do empregado que utilizará o sistema);
+  
   Cadastro de veículo (cadastro dos veículos que serão usados para as entregas);
+  
   Cadastro do entregador (cadastro dos entregadores que realizarão as entregas dos pedidos).
 
 
