@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="384e4432-bab4-4bf4-a383-64adb3adcc59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/callcenter-front/src/app/core/models/api/NotaFiscal.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callcenter-front/src/app/core/models/enum/FormaPagamentoNota.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callcenter-ws/models/notaFiscal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callcenter-ws/routes/notasFiscais.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-front/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-front/src/app/config/pages.ts" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-front/src/app/config/pages.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-front/src/app/content/layout/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-front/src/app/content/layout/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-front/src/app/content/layout/header/brand/brand.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-front/src/app/content/layout/header/brand/brand.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-front/src/app/content/pages/pages-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-front/src/app/content/pages/pages-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-front/src/app/content/pages/pages.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-front/src/app/content/pages/pages.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-front/src/app/core/models/api/Produto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-front/src/app/core/models/api/Produto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-front/src/app/core/services/api/empresas.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-front/src/app/core/services/api/empresas.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-ws/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-ws/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-ws/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-ws/config/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-ws/models/produto.js" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-ws/models/produto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-ws/public/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-ws/public/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callcenter-ws/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/callcenter-ws/routes/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-995729118">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PerfilUsuario" value="1" />
+          <entry key="css" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="108" />
+          <entry key="jade" value="2" />
+          <entry key="js" value="192" />
+          <entry key="json" value="8" />
+          <entry key="map" value="3" />
+          <entry key="scss" value="16" />
+          <entry key="ts" value="338" />
+          <entry key="www" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="108" />
+          <entry key="JSON" value="8" />
+          <entry key="Jade" value="2" />
+          <entry key="JavaScript" value="198" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="16" />
+          <entry key="SourceMap" value="3" />
+          <entry key="TypeScript" value="339" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="PerfilUsuario" value="63" />
+          <entry key="html" value="8132" />
+          <entry key="js" value="6292" />
+          <entry key="scss" value="391" />
+          <entry key="ts" value="13513" />
+          <entry key="www" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="8132" />
+          <entry key="JavaScript" value="6296" />
+          <entry key="SCSS" value="391" />
+          <entry key="TypeScript" value="13576" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-929280084">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callcenter-ws/public/styles.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="547" column="35" selection-start-line="547" selection-start-column="35" selection-end-line="547" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/auth/login/login.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/layout/footer/footer.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callcenter-ws/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callcenter-ws/config/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callcenter-ws/routes/entregadores.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-408" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cadas</find>
+      <find>fornecedo</find>
+      <find>clienteTelef</find>
+      <find>telefone</find>
+      <find>clientes.js</find>
+      <find>genero</find>
+      <find>empresa</find>
+      <find>idD</find>
+      <find>BOOLEAN</find>
+      <find>pADR</find>
+      <find>add</find>
+      <find>ad</find>
+      <find>addProduto</find>
+      <find>produtoQu</find>
+      <find>rdb</find>
+      <find>port</find>
+      <find>global</find>
+      <find>s</find>
+      <find>sincro</find>
+      <find>sinc</find>
+      <find>sincroniza</find>
+      <find>utils</find>
+      <find>router</find>
+      <find>selec</find>
+      <find>selectedProdutos</find>
+      <find>data</find>
+      <find>situac</find>
+      <find>modalServ</find>
+      <find>Bilin</find>
+      <find>bilin</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\X250\Documents\Callcenter</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/callcenter-front" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/pedidos/pedidos-agendados/pedidos-agendados.component.html" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/pedidos/repassar-pedido/repassar-pedido.component.html" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/TipoEstoque.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/estoques.service.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages.module.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/layout/header/brand/brand.component.scss" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/models/estoque.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/routes/estoques.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/pedidos/repassar-pedido/repassar-pedido.component.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Estoque.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/estoque/cadastrar-estoque/cadastrar-estoque.component.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/estoque/cadastrar-estoque/cadastrar-estoque.component.html" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/models/endereco.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Empresa.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/core.module.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/models/empresa.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/usuario/cadastrar-usuario/cadastrar-usuario.component.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/StatusVeiculo.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/SituacaoVeiculo.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/TipoVeiculo.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/veiculos.service.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/routes/empresas.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/models/veiculo.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/routes/veiculos.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.html" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Veiculo.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/http-utils.service.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/models/pedido.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/models/produto.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/empresas.service.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/app.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/notas.service.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages-routing.module.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/layout/header/brand/brand.component.html" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/models/notaFiscal.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-ws/routes/notasFiscais.js" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/FormaPagamentoNota.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Produto.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/NotaFiscal.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/auth/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/bilin-callcenter-front/src/app/config/pages.ts" />
+        <option value="$PROJECT_DIR$/callcenter-ws/routes/index.js" />
+        <option value="$PROJECT_DIR$/callcenter-ws/config/config.json" />
+        <option value="$PROJECT_DIR$/callcenter-ws/public/styles.js" />
+        <option value="$PROJECT_DIR$/callcenter-front/src/app/content/layout/footer/footer.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Callcenter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Callcenter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Callcenter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Callcenter" type="462c0819:PsiDirectoryNode" />
+              <item name="callcenter-front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Callcenter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Callcenter" type="462c0819:PsiDirectoryNode" />
+              <item name="callcenter-ws" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Callcenter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Callcenter" type="462c0819:PsiDirectoryNode" />
+              <item name="callcenter-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Callcenter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Callcenter" type="462c0819:PsiDirectoryNode" />
+              <item name="callcenter-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Callcenter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Callcenter" type="462c0819:PsiDirectoryNode" />
+              <item name="callcenter-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="footer&#9;FILE&#9;file://C:/Users/X250/Documents/Callcenter/callcenter-front/src/app/content/layout/footer/footer.component.html&#10;login&#9;FILE&#9;file://C:/Users/X250/Documents/Callcenter/callcenter-front/src/app/content/pages/auth/login/login.component.html&#10;produtos.s&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/produtos.service.ts&#10;cliente.se&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/clientes.service.ts&#10;usuario.&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/usuarios.service.ts&#10;entregadores&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/entregadores.js&#10;entregador.se&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/entregadores.service.ts&#10;htt&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/http-utils.service.ts&#10;pages&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/pages-routing.module.ts&#10;pag&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/pages.component.html&#10;config&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/interfaces/config.ts&#10;lancar&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.ts&#10;lanca&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html&#10;Empresa&#9;null&#9;null&#10;cadas&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts&#10;cadastrar-ve&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.html&#10;Nota&#9;null&#9;null&#10;lancar-pe&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html&#10;cadastrar-empresa&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.ts&#10;cadastrar-em&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html&#10;NotaFis&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/models/api/NotaFiscal.ts&#10;cadastrar-vei&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.ts&#10;Produto&#9;null&#9;null&#10;Pedido&#9;null&#9;null&#10;cadastrar-no&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html&#10;notasF&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/notasFiscais.js&#10;NotaFiscal&#9;null&#9;null&#10;ap&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/app.js&#10;Defau&#9;null&#9;null&#10;setD&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/_setDefaultData.js&#10;rd&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/rdb.js&#10;auth.s&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/auth/authentication.service.ts&#10;bran&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/layout/header/brand/brand.component.html&#10;page&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/page-config.service.ts&#10;pedido&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/pedidos.js&#10;pedidos&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/pedidos.js&#10;usuario&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/usuario.js&#10;cadastrar&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/produtos/cadastrar-produto/cadastrar-produto.component.html&#10;cadastrar-pro&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/content/pages/components/produtos/cadastrar-produto/cadastrar-produto.component.html&#10;produtos&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/produtos.js&#10;produto&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/produto.js&#10;PRODUTO&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/produtos.js&#10;usuarios&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/usuarios.js&#10;Pro&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/produtos.js&#10;veiculos&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/routes/veiculos.js&#10;veiculos.s&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/veiculos.service.ts&#10;pedidos.se&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/services/api/pedidos.service.ts&#10;veiculo&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-ws/models/veiculo.js&#10;Veiculo&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/models/api/Veiculo.ts&#10;TipoV&#9;FILE&#9;file://C:/Users/X250/Documents/BilinCallCenter/bilin-callcenter-front/src/app/core/models/enum/TipoVeiculo.ts" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\X250\Documents\BilinCallCenter\bilin-callcenter-front\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="384e4432-bab4-4bf4-a383-64adb3adcc59" name="Default Changelist" comment="" />
+      <created>1540408052079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540408052079</updated>
+      <workItem from="1540408053521" duration="4276000" />
+      <workItem from="1540432856047" duration="1262000" />
+      <workItem from="1540489820641" duration="14870000" />
+      <workItem from="1540570332952" duration="8359000" />
+      <workItem from="1540828750488" duration="8827000" />
+      <workItem from="1540901898857" duration="160000" />
+      <workItem from="1540920787718" duration="8000" />
+      <workItem from="1540921543432" duration="9619000" />
+      <workItem from="1540987945048" duration="13978000" />
+      <workItem from="1541098595654" duration="10392000" />
+      <workItem from="1541352629322" duration="32583000" />
+      <workItem from="1541542546787" duration="2213000" />
+      <workItem from="1541604382682" duration="20427000" />
+      <workItem from="1541711591421" duration="21290000" />
+      <workItem from="1541882345881" duration="491000" />
+      <workItem from="1542041627174" duration="11839000" />
+      <workItem from="1542121491412" duration="6380000" />
+      <workItem from="1542207056949" duration="20092000" />
+      <workItem from="1542384522792" duration="19479000" />
+      <workItem from="1542633729735" duration="34881000" />
+      <workItem from="1542780704641" duration="3536000" />
+      <workItem from="1542800208141" duration="1906000" />
+      <workItem from="1542804256321" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="247769000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2700893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24590164" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/pipes/console-log.pipe.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/interface/CallcenterFunctions.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/ResultObject.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/usuario-funcao.service.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/routes/usuarios.js" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/app.js" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/PerfilUsuario.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/routes/notasFiscais.js" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/enum/FormaPagamentoNota.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/notas.service.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Pedido.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/empresa/cadastrar-empresa/cadastrar-empresa.component.html" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.html" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Empresa.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/veiculo/cadastrar-veiculo/cadastrar-veiculo.component.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/models/notaFiscal.js" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.html" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/pedidos/lancar-pedido/lancar-pedido.component.html" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/NotaFiscal.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/components/nota-fiscal/cadastrar-nota/cadastrar-nota.component.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/node_modules/@angular/router/router.metadata.json" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/styles.scss" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/interfaces/config.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/auth/login/login.component.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/auth/login/login.component.html" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages.module.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages.component.html" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/content/pages/pages-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/models/api/Produto.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/models/cliente.js" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/models/pedido.js" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/models/produto.js" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/config/pages.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/http-utils.service.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/entregadores.service.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-ws/routes/entregadores.js" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/usuarios.service.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/clientes.service.ts" />
+    <entry file="file://$PROJECT_DIR$/bilin-callcenter-front/src/app/core/services/api/produtos.service.ts" />
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/config/_webSocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/routes/entregadores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/config/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callcenter-ws/public/styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="547" column="35" selection-start-line="547" selection-start-column="35" selection-end-line="547" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/pages/auth/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callcenter-front/src/app/content/layout/footer/footer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
