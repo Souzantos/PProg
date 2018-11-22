@@ -24,7 +24,7 @@ Angular 6;
 
 4. Modularização
 
-	4.1 Módulos e suas funcionalidades
+  4.1 Módulos e suas funcionalidades
 
   Lista de Pedidos (lista onde haverá os pedidos feitos pelos clientes);
   Relatório de Pedidos (relatório de todos os pedidos já realizados);
@@ -38,7 +38,6 @@ Angular 6;
   Cadastro do usuário (cadastro do empregado que utilizará o sistema);
   Cadastro de veículo (cadastro dos veículos que serão usados para as entregas);
   Cadastro do entregador (cadastro dos entregadores que realizarão as entregas dos pedidos).
-
 
   4.2 Responsáveis e andamento
 
